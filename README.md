@@ -21,14 +21,21 @@ https://github.com/michaelfoz/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb
 
 # Deliverable 2:
 
-Per Deliverable 2 instructions, create the following visualizations:
+Per Deliverable 2 instructions, create the following visualizations: (1) Checkout Times for Users, (2) Checkout Times by Gender, (3) Trips by Weekday, (4) Trips by Gender (Weekday per Hour), (5) User Trips by Gender by Weekday.
+### (1) Checkout Times for Users
 
-(1) Checkout Times for Users
+![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/1%20-%20Checkout%20Times%20for%20Users.png?raw=true)
 
-(2) Checkout Times by Gender
+### (2) Checkout Times by Gender
 
-(3) Trips by Gender (Weekday per Hour)
+![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/2%20-%20Checkout%20Times%20by%20Gender%20(Number%20to%20String).png)
+![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/2%20-%20Checkout%20Times%20by%20Gender.png)
 
-(4) Trips by Weekday 
+### (3) Trips by Weekday
+![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/3%20-%20Trips%20by%20Weekday.png)
 
-(5) User Trips by Gender 
+### (4) Trips by Gender (Weekday per Hour)
+![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/4%20-%20Trips%20by%20Gender.png)
+
+### (5) User Trips by Gender by Weekday
+![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/5%20-%20User%20Trips%20by%20Gender%20by%20Weekday.png)
