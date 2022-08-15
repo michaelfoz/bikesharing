@@ -50,7 +50,7 @@ Visualizations from Deliverable 2 above--specifically, Trips by Gender (Weekday 
 
 ![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/9%20-%20More%20Male%20Subscribers%20than%20Female.png)
 
-With this information, I chose to have a look at the start and end trip locations for the male gender specifically.
+With this information, I chose to have a look at the start and end trip locations for the male gender specifically. Knowing these locations could be beneficial in that more bike stations or workers could be placed in these higher-traffic areas.  This analysis can be applied to a different location in another state and city like De Moines, Iowa.
 
 ![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/7%20-%20Start%20Locations%20by%20Gender%20(Male).png)
 
