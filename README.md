@@ -1,5 +1,7 @@
 # MCD Module 14: bikesharing
 
+The purpose of this assignment/challenge is to get familiar with Tableau, a tool used for creating visuals.  Tableau is helpful in that little-to no code is written.  Tableau allows the developer to show clientel or co-workers--who do not necessarily code--visuals that are effective/concise and aesthetically pleasing.
+
 (Data source file was too large; I was unable to upload into this repository--link to data source file provided below.)
 ### Data Source:
 File name: 201908-citibike-tripdata.csv.zip
