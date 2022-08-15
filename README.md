@@ -23,7 +23,7 @@ https://github.com/michaelfoz/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb
 
 Per Deliverable 2 instructions, create the following visualizations:
 
-(1) Checkour Times for Users
+(1) Checkout Times for Users
 
 (2) Checkout Times by Gender
 
