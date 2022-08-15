@@ -50,6 +50,8 @@ Visualizations from Deliverable 2 above--specifically, Trips by Gender (Weekday 
 
 ![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/9%20-%20More%20Male%20Subscribers%20than%20Female.png)
 
+With this information, I chose to have a look at the start and end trip locations for the male gender specifically.
+
 ![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/7%20-%20Start%20Locations%20by%20Gender%20(Male).png)
 
 ![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/8%20-%20End%20Locations%20by%20Gender%20(Male).png)
