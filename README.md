@@ -41,3 +41,5 @@ Per Deliverable 2 instructions, create the following visualizations: (1) Checkou
 
 ### (5) User Trips by Gender by Weekday
 ![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/5%20-%20User%20Trips%20by%20Gender%20by%20Weekday.png)
+
+# Deliverable 3:
