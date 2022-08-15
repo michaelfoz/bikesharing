@@ -44,6 +44,8 @@ Per Deliverable 2 instructions, create the following visualizations: (1) Checkou
 
 # Deliverable 3:
 
+Visualizations from Deliverable 2 above--specifically, Trips by Gender (Weekday per Hour) and User Trips by Gender by Weekday--showed that there were more male Citibike users who made trips throuhout the week, and also more male subscribers than females.
+
 ![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/10%20-%20More%20Rides%20by%20Males%20than%20Females.png)
 
 ![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/9%20-%20More%20Male%20Subscribers%20than%20Female.png)
