@@ -43,6 +43,9 @@ Per Deliverable 2 instructions, create the following visualizations: (1) Checkou
 ![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/5%20-%20User%20Trips%20by%20Gender%20by%20Weekday.png)
 
 # Deliverable 3:
+
+![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/10%20-%20More%20Rides%20by%20Males%20than%20Females.png)
+
 ![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/9%20-%20More%20Male%20Subscribers%20than%20Female.png)
 
 ![image](https://github.com/michaelfoz/bikesharing/blob/main/Visualizations/7%20-%20Start%20Locations%20by%20Gender%20(Male).png)
